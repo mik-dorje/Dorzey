@@ -1,0 +1,16 @@
+[
+  {
+    layout: "Layout 1",
+    name: "Salary Sheet",
+    capacity: 10,
+    status: true,
+    image: "https://exceldatapro.com/wp-content/uploads/2020/05/Deductions-Salary-Sheet.jpg"
+  },
+  {
+    layout: "Layout 2",
+    name: "Employee Data",
+    capacity: 15,
+    status: false,
+    image: "https://i.ytimg.com/vi/DRPrCTDovV0/maxresdefault.jpg"
+  }
+]
